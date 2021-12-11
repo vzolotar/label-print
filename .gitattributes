@@ -1,0 +1,4 @@
+*.pbd linguist-detectable=true
+*.pbl linguist-detectable=true
+*.pbd linguist-language=powerbuilder
+*.pbl linguist-language=powerbuilder
